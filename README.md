@@ -1,6 +1,17 @@
 # House Price Prediction Documentation
 
-This Repository contains the source code for Predicting House Prices using Linear Regression(Machine Learning).
+This Repository contains the source code for Predicting House Prices using Linear Regression Algorithm(Supervised Learning).
+
+## Introduction:
+
+Accurately estimating the value of real estate is an important problem for many
+stakeholders including house owners, house buyers, agents, creditors, and investors. It is also a difficult one. Though it is common knowledge that factors
+such as the size, number of rooms and location affect the price, there are many
+other things at play. Additionally, prices are sensitive to changes in market
+demand and the peculiarities of each situation, such as when a property needs
+to be urgently sold. The sales price of a property can be predicted in various ways, but is often
+based on regression techniques. All regression techniques essentially involve
+one or more predictor variables as input and a single target variable as output.
 
 ## Tool Prerequisites:
 1. Pandas
